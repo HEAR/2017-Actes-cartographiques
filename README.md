@@ -4,6 +4,16 @@ Dossier du workshop hors limites 2017 «actes cartographiques».
 _Encadré par Sandra Chamaret et Loïc Horellou_
 
 
+Il existe différents outils de cartographies en ligne. Il faut également bien distinguer les sources de données, des systèmes de navigation. En voici quelques uns :
+
+- Google map (https://developers.google.com/maps/) : source de données et système de navigation
+- Mapbox (https://www.mapbox.com) : source de données et système de navigation
+- Leaflet (http://leafletjs.com) : système de navigation
+- Open streetmap (http://www.openstreetmap.org/) : source de données
+- Stammen (http://maps.stamen.com) : source de données
+
+
+
 ## Documentation de l'API MapBox javascript :
 
 https://www.mapbox.com/mapbox-gl-js/api/
@@ -38,3 +48,9 @@ https://www.mapbox.com/help/tutorials/
 - pour ajouter les couches d'informations sous les libellés : https://www.mapbox.com/mapbox-gl-js/example/geojson-layer-in-stack/
 - lier des positions à un contenu : https://www.mapbox.com/mapbox-gl-js/example/scroll-fly-to/
 - faire une recherche par adresse : https://www.mapbox.com/mapbox-gl-js/example/mapbox-gl-geocoder/
+
+
+## Annexes 
+
+- https://www.mapbox.com/help/how-mapbox-works/
+- https://github.com/Turfjs/turf/
