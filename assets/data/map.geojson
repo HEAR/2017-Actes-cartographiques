@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "enseignement",
+        "titre": "Haute école des arts du Rhin",
+        "url": "http://www.hear.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.759024500846863,
+          48.582207452771456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "enseignement",
+        "titre": "université de Strasbourg ",
+        "url": "https://www.unistra.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7622270584106445,
+          48.58489737363862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "monument",
+        "titre": "Cathédrale de Strasbourg",
+        "url": "http://www.cathedrale-strasbourg.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750505805015564,
+          48.58168932492144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#821000",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.753000259399415,
+              48.58305206075754
+            ],
+            [
+              7.756991386413574,
+              48.58188805951921
+            ],
+            [
+              7.754631042480468,
+              48.57885017392409
+            ],
+            [
+              7.758922576904298,
+              48.58114989850295
+            ],
+            [
+              7.762484550476073,
+              48.57833910980906
+            ],
+            [
+              7.760896682739258,
+              48.58132024430966
+            ],
+            [
+              7.765188217163086,
+              48.58299528083126
+            ],
+            [
+              7.760510444641112,
+              48.58305206075754
+            ],
+            [
+              7.759180068969727,
+              48.58682778269678
+            ],
+            [
+              7.757377624511719,
+              48.58299528083126
+            ],
+            [
+              7.753000259399415,
+              48.58305206075754
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
