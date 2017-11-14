@@ -52,5 +52,6 @@ https://www.mapbox.com/help/tutorials/
 
 ## Annexes 
 
-- https://www.mapbox.com/help/how-mapbox-works/
-- https://github.com/Turfjs/turf/
+- Mode de fonctionnement de Mapbox : https://www.mapbox.com/help/how-mapbox-works/
+- Pour manipuler des coordonnées : https://github.com/Turfjs/turf/
+- Les différents types de projection cartographique : https://www.jasondavies.com/maps/transition/
